@@ -1,2 +1,2 @@
 # Project-BI
-I built this Power BI dashboard to analyze insurance data and explore how customer profiles, vehicle details, and coverage zones impact claim frequency and total claim amount. It helps identify risk patterns and supports data-driven insights.
+I worked on two Power BI dashboards that focus on real-world data analysis. The first project explores employee attrition, showing how factors like education, job role, and work-life balance affect turnover. The second project analyzes insurance claims, uncovering how customer profiles, vehicle types, and coverage zones impact claim amounts and risks. Both projects aim to turn raw data into clear, meaningful insights for better decision-making.
